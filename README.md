@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PliutaNastya.
 - 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React.
 - 📫 How to reach me pliuta1996@gmail.com.
 
 <!---
