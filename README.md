@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   - 👀 I’m interested in Front-end development. <br>
   - 🌱 I’m currently learning HTML, CSS, JavaScript, React. <br>
-  - 📫 How to reach me: <a href="www.linkedin.com/in/pliuta-anastasiia">
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/pliuta-anastasiia">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
