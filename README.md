@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZ2YXRqYjh0YmR6NXJkemFnZDI5cTlrODl3dDRwYTRwcnoyYTI2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rIoxLYIJBnkcWLafTE/giphy.gif" width="200"/>
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/pliuta-anastasiia" target="_blank">
+  <a href="https://www.linkedin.com/in/pliuta-anastasiia">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   - 👀 I’m interested in Front-end development. <br>
   - 🌱 I’m currently learning HTML, CSS, JavaScript, React. <br>
-  - 📫 How to reach me: <a href="https://www.linkedin.com/in/pliuta-anastasiia" target="_blank">
+  - 📫 How to reach me: <a href="https://www.linkedin.com/in/pliuta-anastasiia">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
