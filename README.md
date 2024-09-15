@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZ2YXRqYjh0YmR6NXJkemFnZDI5cTlrODl3dDRwYTRwcnoyYTI2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rIoxLYIJBnkcWLafTE/giphy.gif" width="200"/>
 </div>
 <div id="badges"  align="center">
-  <a href="www.linkedin.com/in/pliuta-anastasiia">
+  <a href="www.linkedin.com/in/pliuta-anastasiia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
