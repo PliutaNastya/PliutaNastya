@@ -34,7 +34,7 @@ I'm a passionate web developer who loves bringing ideas to life on the web. I ta
 * 🌍  I'm based in Ireland
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/PliutaNastya)
 * ✉️  You can contact me at [pliuta1996@gmail.com](mailto:pliuta1996@gmail.com)
-* 🚀  I'm currently working on [UPWORK](http://https://www.upwork.com/freelancers/~014b2ee5330fc0c39d)
+* 🚀  I'm currently working on [UPWORK](https://www.upwork.com/freelancers/~014b2ee5330fc0c39d)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on your project
 
